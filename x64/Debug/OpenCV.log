@@ -1,0 +1,5 @@
+﻿  Main.cpp
+c:\users\marqubit\documents\visual studio 2015\projects\opencv\main.cpp(94): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\marqubit\documents\visual studio 2015\projects\opencv\main.cpp(97): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  OpenCV.vcxproj -> C:\Users\MarQubit\Documents\Visual Studio 2015\Projects\OpenCV\x64\Debug\OpenCV.exe
+  OpenCV.vcxproj -> C:\Users\MarQubit\Documents\Visual Studio 2015\Projects\OpenCV\x64\Debug\OpenCV.pdb (Full PDB)
